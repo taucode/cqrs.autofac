@@ -4,5 +4,6 @@
 
 2019-10-20
 ==========
+    Version: v2.19.3    
     1. Updated reference versions.
 
