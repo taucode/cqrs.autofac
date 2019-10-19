@@ -15,7 +15,7 @@
     <tags>taucode cqrs autofac</tags>
     <dependencies>
       <dependency id="Autofac" version="4.9.4" />
-      <dependency id="TauCode.Cqrs" version="2.19.2" />
+      <dependency id="TauCode.Cqrs" version="2.19.3" />
     </dependencies>
   </metadata>
   <files>
