@@ -13,8 +13,8 @@
     </releaseNotes>
     <tags>taucode cqrs autofac</tags>
     <dependencies>
-      <dependency id="Autofac" version="4.9.2" />
-      <dependency id="TauCode.Cqrs" version="2.19.1-dev-0625-0001" />
+      <dependency id="Autofac" version="4.9.4" />
+      <dependency id="TauCode.Cqrs" version="2.19.2" />
     </dependencies>
   </metadata>
   <files>
