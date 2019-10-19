@@ -1,3 +1,8 @@
 2019-06-24
 ==========
     1. Built for .NET Standard
+
+2019-10-20
+==========
+    1. Updated reference versions.
+
