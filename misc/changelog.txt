@@ -4,6 +4,6 @@
 
 2019-10-20
 ==========
-    Version: v2.19.3    
-    1. Updated reference versions.
+    Version: v3.0
+    1. Release v3.0
 
