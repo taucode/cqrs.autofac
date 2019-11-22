@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 
-namespace TauCode.Cqrs.Autofac.Test
+namespace TauCode.Cqrs.Autofac.Tests
 {
     [TestFixture]
-    public class CqrsAutofacTest
+    public class CqrsAutofacTests
     {
         [Test]
         public void DummyTest()
