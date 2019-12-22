@@ -1,0 +1,2 @@
+﻿[todo] consider Cqrs package on nuget.org (Chinchilla Software, )
+[todo] review all descriptions on github (readme.md)
