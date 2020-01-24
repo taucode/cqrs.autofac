@@ -1,24 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>TauCode.Cqrs.Autofac</id>
-    <version>3.0.0.1</version>
+    <version>1.0.0.0-dev-2019-12-22-01-03</version>
     <authors>TauCode</authors>
     <owners>TauCode</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
-    <projectUrl>http://taucode.com/</projectUrl>
+    <license type="file">LICENSE.txt</license>
+    <projectUrl>https://github.com/taucode/taucode.cqrs.autofac</projectUrl>
     <description>Basic functionality for CQRS support via Autofac</description>
     <releaseNotes>
-      1. Updated project structure.
+      Moving to nuget.org
     </releaseNotes>
     <tags>taucode cqrs autofac</tags>
     <dependencies>
       <dependency id="Autofac" version="4.9.4" />
-      <dependency id="TauCode.Cqrs" version="3.0.1" />
+      <dependency id="TauCode.Cqrs" version="1.0.0-dev-2019-12-22-00-45" />
     </dependencies>
   </metadata>
   <files>
+    <file src="..\LICENSE.txt" target="" />
     <file src="..\src\TauCode.Cqrs.Autofac\bin\Release\netstandard2.0\TauCode.Cqrs.Autofac.dll" target="lib\netstandard2.0" />
     <file src="..\src\TauCode.Cqrs.Autofac\bin\Release\netstandard2.0\TauCode.Cqrs.Autofac.pdb" target="lib\netstandard2.0" />
   </files>
