@@ -8,7 +8,7 @@ namespace TauCode.Cqrs.Autofac.Tests
         [Test]
         public void CqrsAutofacDummyTest()
         {
-            Assert.Pass("Added for the Jenkins jobs compatibility");
+            Assert.Pass("Added for Azure DevOps compatibility.");
         }
     }
 }
