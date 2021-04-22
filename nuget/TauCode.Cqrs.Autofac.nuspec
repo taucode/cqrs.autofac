@@ -2,21 +2,24 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>TauCode.Cqrs.Autofac</id>
-    <version>1.3.2.7-dev-2021-04-03-19-56</version>
+    <version>1.3.2.7-dev-2021-04-22-08-10</version>
     <authors>TauCode</authors>
     <owners>TauCode</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="file">LICENSE.txt</license>
     <projectUrl>https://github.com/taucode/taucode.cqrs.autofac</projectUrl>
-    <description>Basic functionality for CQRS support via Autofac</description>
+    <repository type="git" url="https://github.com/taucode/taucode.cqrs.autofac"/>
+    <description>
+      Basic functionality for CQRS support via Autofac
+    </description>
     <releaseNotes>
       Resurrection.
     </releaseNotes>
     <tags>taucode cqrs autofac</tags>
     <dependencies>
       <group targetFramework=".NETStandard2.1">
-        <dependency id="Autofac" version="6.1.0" />
-        <dependency id="TauCode.Cqrs" version="1.3.2.7-dev-2021-03-01-20-29" />
+        <dependency id="Autofac" version="6.2.0" />
+        <dependency id="TauCode.Cqrs" version="1.3.2.7-dev-2021-04-17-19-37" />
       </group>
     </dependencies>
   </metadata>
