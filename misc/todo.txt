@@ -1,2 +1,5 @@
-﻿[todo] consider Cqrs package on nuget.org (Chinchilla Software, )
-[todo] review all descriptions on github (readme.md)
+﻿2021-04-22
+==========
+    1. Consider Cqrs package on nuget.org (Chinchilla Software, )
+    2. Review all descriptions on github (readme.md)
+
