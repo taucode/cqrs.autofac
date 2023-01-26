@@ -1,5 +1,4 @@
 ﻿using Autofac;
-using TauCode.Cqrs.Abstractions;
 using TauCode.Cqrs.Commands;
 
 namespace TauCode.Cqrs.Autofac;
